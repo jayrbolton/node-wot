@@ -1,0 +1,11 @@
+
+
+If you are familiar with PGP terminology, use this translation guide:
+
+A "private signing key" is a **stamp**
+A "public signing key" is an **imprint**
+A "signed message" is **stamped**
+
+A "private encryption key" is a "key"
+A "public enryption key" is a "lock"
+An "encrypted message" is "locked"
